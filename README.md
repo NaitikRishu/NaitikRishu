@@ -12,10 +12,10 @@
 
 Naitik Rishu is a dedicated Computer Science and Engineering student with a strong foundation in programming and software development. He has hands-on experience in building innovative AI-driven applications and full-stack web solutions, showcasing his ability to integrate complex technologies seamlessly. With a passion for continuous learning and problem-solving, he strives to leverage his skills in real-world projects.
 
-- 🏢 Working at **Indian Institute of Information Technology and Management, Gwalior** in **Gwalior, India**
-- 🌱 Currently learning **Agentic AI**
-- 💬 Ask me about **Artificial Intelligence, Web Development, Database Management**
-- ⚡ Achieved 99.2 Percentile in JEE Mains among 1.4 Million+ candidates and was part of a national-level hackathon team.
+- 🏢 Studying at **Indian Institute of Information Technology and Management, Gwalior** in **Gwalior, India**
+- 🌱 Currently learning **Generative AI**
+- 💬 Ask me about **Artificial Intelligence, Web Development, Machine Learning*
+- ⚡ Achieved 99.2 Percentile in JEE Mains among 1.4 Million+ candidates and SIH Finalist.
 
 ## 🛠️ Tech Stack
 
