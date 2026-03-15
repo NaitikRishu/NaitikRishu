@@ -4,6 +4,7 @@
 
 # Hey, I'm Naitik Rishu!
 
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Bachelor%20of%20Technology%20in%20Computer%20Science;Machine%20Learning%20&%20AI;Web%20Developer;Based%20in%20Gwalior%2C%20India)](https://git.io/typing-svg)
 
 </div>
